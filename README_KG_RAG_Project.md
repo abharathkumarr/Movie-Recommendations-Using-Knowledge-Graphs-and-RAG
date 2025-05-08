@@ -21,7 +21,7 @@ Traditional recommendation systems rely heavily on collaborative or content-base
 
 ## Dataset
 
-- Source: Neo4j “recommendations” dataset
+- Source: [Neo4j “recommendations” dataset](https://github.com/neo4j-graph-examples/recommendations)
 - Entities & Relationships:
   - `(:Movie)-[:IN_GENRE]->(:Genre)`
   - `(:User)-[:RATED]->(:Movie)`

@@ -82,5 +82,3 @@ Traditional recommendation systems rely heavily on collaborative or content-base
 - [Neo4j Example Datasets](https://neo4j.com/docs/getting-started/appendix/example-data/)
 
 ---
-
-## Thank You!

@@ -1,6 +1,6 @@
 #  Enhancing Movie Recommendations Using Knowledge Graphs and RAG
 
-> **Authors:** Axel Castellanos-Morales, Bharath Kumar A  
+> **Authors:** Axel Castellanos-Morales, Bharath Kumar A 
 > **Repo:** [Movie-Recommendations-Using-Knowledge-Graphs-and-RAG](https://github.com/abharathkumarr/Movie-Recommendations-Using-Knowledge-Graphs-and-RAG)
 
 ---

@@ -5,7 +5,7 @@
 
 ---
 
-##  Motivation
+##  Motivation 
 
 Traditional recommendation systems rely heavily on collaborative or content-based filtering, which often fail to capture deeper relationships between entities. This project aims to **enhance movie recommendations** using:
 - **Knowledge Graphs (KGs)** to model semantic connections
